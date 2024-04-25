@@ -1,2 +1,2 @@
- #include<stdio.h>
-//  #include<limits.h>
+  // if(i==o){
+        //     numbers[i]=p;

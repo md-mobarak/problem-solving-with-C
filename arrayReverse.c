@@ -7,9 +7,15 @@ int main (){
     {
         scanf("%d",&numbers[i]);
     }
+     
+
     for (int i = n-1; i>=0; i--)
     {
-        printf("%d ",numbers[i]);
+       if(i%2==1){
+ printf("%d ",numbers[i]);
+       }
+
+       
     }
     
     return 0;
